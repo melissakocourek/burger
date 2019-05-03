@@ -1,0 +1,53 @@
+
+.container{
+    width: 100%;
+
+}
+body {
+    background-color: lightgray;
+    font-size: 1rem;
+    font-weight:400;
+    line-height:1.5;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+
+}
+#newBurgers {
+    font-size: 2rem;
+    text-align:center;
+    background-color: #9CB29E;
+    margin-bottom: 20px;
+
+}
+
+#devoured {
+    font-size: 2rem;
+    text-align:center;
+    background-color:#9CB29E;
+    margin-bottom: 20px;
+}
+
+* {
+    box-sizing: border-box;
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+#burger {
+    font-size: 1.5rem;
+}
+
+#submit {
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+img {
+    width: 50%;
+    margin-bottom: -60px;
+}
+
+.form-control[readonly] {
+    color: black;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
